@@ -2,28 +2,31 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="96"
-   height="96.000031"
-   viewBox="0 0 96 96.000031"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
-     id="layer1"
-     transform="translate(-170,-499.99997)">
-    <path
-       id="path2"
-       style="fill:#8855ee;fill-opacity:1;stroke-width:2.10782;-inkscape-stroke:none"
-       d="m 180,499.99997 27,80.25 27.75,-80.25 z m 70.5,44.25 -16.5,51.75 h 24 z" />
-    <rect
-       style="opacity:0.1;fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect27"
-       width="96"
-       height="96"
-       x="170"
-       y="499.99997" />
-  </g>
+	width="96"
+	height="96.000031"
+	viewBox="0 0 96 96.000031"
+	version="1.1"
+	id="svg1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:svg="http://www.w3.org/2000/svg"
+>
+	<defs id="defs1" />
+	<g
+		id="layer1"
+		transform="translate(-170,-499.99997)"
+	>
+		<path
+			id="path2"
+			style="fill: #8855ee; fill-opacity: 1; stroke-width: 2.10782; -inkscape-stroke: none"
+			d="m 180,499.99997 27,80.25 27.75,-80.25 z m 70.5,44.25 -16.5,51.75 h 24 z"
+		/>
+		<rect
+			style="opacity: 0.1; fill: none; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; paint-order: stroke fill markers"
+			id="rect27"
+			width="96"
+			height="96"
+			x="170"
+			y="499.99997"
+		/>
+	</g>
 </svg>

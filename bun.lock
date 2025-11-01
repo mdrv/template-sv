@@ -3,6 +3,9 @@
   "workspaces": {
     "": {
       "name": "/x",
+      "dependencies": {
+        "/x": ".",
+      },
       "devDependencies": {
         "@pandacss/dev": "^1.4.3",
         "@sveltejs/kit": "^2.48.4",
@@ -20,6 +23,8 @@
     },
   },
   "packages": {
+    "/x": ["/x@root:", {}],
+
     "@babel/helper-string-parser": ["@babel/helper-string-parser@7.27.1", "", {}, "sha512-qMlSxKbpRlAridDExk92nSobyDdpPijUq2DW6oDnUqd0iOGxmQjyqhMIihI9+zv4LPyZdRje2cavWPbCbWm3eA=="],
 
     "@babel/helper-validator-identifier": ["@babel/helper-validator-identifier@7.28.5", "", {}, "sha512-qSs4ifwzKJSV39ucNjsvc6WVHs6b7S03sOh2OcHF9UHfVPqWWALUsNUVzhSBiItjRZoLHx7nIarVjqKVusUZ1Q=="],
